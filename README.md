@@ -1,11 +1,9 @@
 # TEDx BonitaVistaHS
----
 We are a student-led, TED-licensed organization who host an annual TED conference at Bonita Vista High School in Chula Vista, CA.
 
 For our 7th annual conferencce in 2024, our theme is "Mosaic," where we will showcase a variety of speakers who will share their diverse human lived experiences and ideas. In the spirit of sharing new ideas, we hope to gather 50 individuals in our community to attend our enlightening program. 
 
 # TED's Code of Conduct
----
 We invite you to come to TED in a spirit of curiosity, friendliness, open-mindedness, and respect. We will not tolerate harassment, in any form, at a TED event or on a TED-hosted online event.
 
 ### At a TED event, you agree to:
